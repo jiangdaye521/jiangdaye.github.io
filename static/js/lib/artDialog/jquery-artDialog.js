@@ -1419,7 +1419,7 @@ artDialog.defaults = {
 	disableTab:false,			// 默认显示任务栏
 
 	animate:true,				//对话框打开关闭、显示隐藏、最大化最小化动画是否显示
-	ico:'<img src="./static/images/file_icon/icon_others/info.png" draggable="false" ondragstart="return false;"/>',//默认标题小图标
+	ico:'<img src="https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/info.png" draggable="false" ondragstart="return false;"/>',//默认标题小图标
 	resize: false,				// 是否允许用户调节尺寸
 	drag: true					// 是否允许用户拖动位置
 };
